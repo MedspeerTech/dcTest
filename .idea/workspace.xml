@@ -29,8 +29,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29098967">
-              <caret line="192" column="25" selection-start-line="185" selection-start-column="0" selection-end-line="192" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.31314623">
+              <caret line="193" column="8" selection-start-line="193" selection-start-column="12" selection-end-line="216" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -626,7 +626,7 @@
       <workItem from="1450675320517" duration="8216000" />
       <workItem from="1450768073569" duration="4202000" />
       <workItem from="1453606365702" duration="774000" />
-      <workItem from="1453612218363" duration="908000" />
+      <workItem from="1453612218363" duration="957000" />
     </task>
     <task id="LOCAL-00001" summary="pom">
       <created>1453622794158</created>
@@ -652,11 +652,17 @@
       <option name="project" value="LOCAL" />
       <updated>1453623528924</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="pom">
+      <created>1453623589137</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1453623589137</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18665000" />
+    <option name="totallyTimeSpent" value="18714000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -964,8 +970,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29098967">
-          <caret line="192" column="25" selection-start-line="185" selection-start-column="0" selection-end-line="192" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.31314623">
+          <caret line="193" column="8" selection-start-line="193" selection-start-column="12" selection-end-line="216" selection-end-column="25" />
           <folding />
         </state>
       </provider>
