@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf4675ca-5a14-4639-a74d-759acf87d2c0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="test.iws" />
@@ -39,8 +38,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8181818">
-              <caret line="175" column="21" selection-start-line="175" selection-start-column="21" selection-end-line="175" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.45454547">
+              <caret line="148" column="54" selection-start-line="148" selection-start-column="54" selection-end-line="148" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -657,7 +656,7 @@
       <workItem from="1450675320517" duration="8216000" />
       <workItem from="1450768073569" duration="4202000" />
       <workItem from="1453606365702" duration="774000" />
-      <workItem from="1453612218363" duration="2443000" />
+      <workItem from="1453612218363" duration="2940000" />
     </task>
     <task id="LOCAL-00001" summary="pom">
       <created>1453622794158</created>
@@ -743,11 +742,23 @@
       <option name="project" value="LOCAL" />
       <updated>1453626818629</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="pom">
+      <created>1453626903468</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1453626903468</updated>
+    </task>
+    <task id="LOCAL-00016" summary="pom">
+      <created>1453627380582</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1453627380582</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20200000" />
+    <option name="totallyTimeSpent" value="20697000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1065,8 +1076,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8181818">
-          <caret line="175" column="21" selection-start-line="175" selection-start-column="21" selection-end-line="175" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.45454547">
+          <caret line="148" column="54" selection-start-line="148" selection-start-column="54" selection-end-line="148" selection-end-column="54" />
           <folding />
         </state>
       </provider>
