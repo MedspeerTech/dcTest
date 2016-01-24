@@ -42,7 +42,7 @@
         "root": {
           "level": "TRACE",
           "appender-ref": {
-            "ref": "File"
+            "ref": "Console"
           }
         }
       }
