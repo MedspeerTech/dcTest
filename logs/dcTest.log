@@ -16,3 +16,32 @@
 2016-01-24 14:29:46,471 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding [server.ports] PropertySource with highest search precedence
 2016-01-24 14:29:46,477 INFO dc.test.Application [main] Started Application in 3.604 seconds (JVM running for 8.917)
 2016-01-24 14:29:46,477 ERROR dc.test.Application [main] ---------------------error for testing 
+2016-01-24 17:29:42,077 DEBUG org.jboss.logging [pool-2-thread-1] Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2016-01-24 17:29:42,078 INFO org.hibernate.validator.internal.util.Version [pool-2-thread-1] HV000001: Hibernate Validator 5.2.2.Final
+2016-01-24 17:29:42,118 DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver [pool-2-thread-1] Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2016-01-24 17:29:43,743 DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver [main] Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2016-01-24 17:29:43,746 DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl [main] Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2016-01-24 17:29:43,747 DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl [main] Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2016-01-24 17:29:43,749 DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl [main] Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy64
+2016-01-24 17:29:43,752 DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser [main] Trying to load META-INF/validation.xml for XML based Validator configuration.
+2016-01-24 17:29:43,754 DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper [main] Trying to load META-INF/validation.xml via user class loader
+2016-01-24 17:29:43,755 DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper [main] Trying to load META-INF/validation.xml via TCCL
+2016-01-24 17:29:43,755 DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper [main] Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2016-01-24 17:29:43,755 DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser [main] No META-INF/validation.xml found. Using annotation based configuration only.
+2016-01-24 17:29:43,958 TRACE org.hibernate.validator.internal.metadata.aggregated.BeanMetaDataImpl [main] Members of the default group sequence for bean org.springframework.boot.autoconfigure.web.ServerProperties are: [interface javax.validation.groups.Default].
+2016-01-24 17:29:43,981 TRACE org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree [main] Validating value / against constraint defined by ConstraintDescriptorImpl{annotation=javax.validation.constraints.NotNull, payloads=[], hasComposingConstraints=true, isReportAsSingleInvalidConstraint=false, elementType=FIELD, definedOn=DEFINED_LOCALLY, groups=[interface javax.validation.groups.Default], attributes={message={javax.validation.constraints.NotNull.message}, groups=[Ljava.lang.Class;@5f78dcde, payload=[Ljava.lang.Class;@3647a4fc}, constraintType=GENERIC}.
+2016-01-24 17:29:43,991 TRACE org.hibernate.validator.internal.metadata.aggregated.BeanMetaDataImpl [main] Members of the default group sequence for bean java.lang.Object are: [interface javax.validation.groups.Default].
+2016-01-24 17:29:44,361 TRACE org.hibernate.validator.internal.metadata.aggregated.BeanMetaDataImpl [localhost-startStop-1] Members of the default group sequence for bean org.springframework.boot.autoconfigure.web.WebMvcProperties are: [interface javax.validation.groups.Default].
+2016-01-24 17:29:44,374 TRACE org.hibernate.validator.internal.metadata.aggregated.BeanMetaDataImpl [localhost-startStop-1] Members of the default group sequence for bean org.springframework.boot.autoconfigure.web.MultipartProperties are: [interface javax.validation.groups.Default].
+2016-01-24 17:29:44,450 TRACE org.hibernate.validator.internal.metadata.aggregated.BeanMetaDataImpl [localhost-startStop-1] Members of the default group sequence for bean org.springframework.boot.autoconfigure.web.HttpEncodingProperties are: [interface javax.validation.groups.Default].
+2016-01-24 17:29:44,794 DEBUG org.hibernate.validator.internal.engine.resolver.DefaultTraversableResolver [main] Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2016-01-24 17:29:44,794 DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl [main] Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2016-01-24 17:29:44,794 DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl [main] Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2016-01-24 17:29:44,794 DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl [main] Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy64
+2016-01-24 17:29:44,794 DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser [main] Trying to load META-INF/validation.xml for XML based Validator configuration.
+2016-01-24 17:29:44,794 DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper [main] Trying to load META-INF/validation.xml via user class loader
+2016-01-24 17:29:44,795 DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper [main] Trying to load META-INF/validation.xml via TCCL
+2016-01-24 17:29:44,795 DEBUG org.hibernate.validator.internal.xml.ResourceLoaderHelper [main] Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2016-01-24 17:29:44,795 DEBUG org.hibernate.validator.internal.xml.ValidationXmlParser [main] No META-INF/validation.xml found. Using annotation based configuration only.
+2016-01-24 17:29:45,022 TRACE org.hibernate.validator.internal.metadata.aggregated.BeanMetaDataImpl [main] Members of the default group sequence for bean org.springframework.boot.autoconfigure.jackson.JacksonProperties are: [interface javax.validation.groups.Default].
+2016-01-24 17:29:45,321 ERROR dc.test.Application [main] ---------------------error for testing 
