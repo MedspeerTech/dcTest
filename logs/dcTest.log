@@ -62,3 +62,20 @@
 2016-01-24 17:41:53.773  INFO 15829 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
 2016-01-24 17:41:54.114  INFO 15829 --- [main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8989 (http)
 2016-01-24 17:41:54.135  INFO 15829 --- [main] dc.test.Application                      : Started Application in 5.49 seconds (JVM running for 10.76)
+2016-01-24 17:43:41.123  INFO 15909 --- [main] dc.test.Application                      : Starting Application on Vishnu.local with PID 15909 (/Volumes/Vishnnu/doctorsConnect/workShop/dc/dcTest/target/classes started by vishnu in /Volumes/Vishnnu/doctorsConnect/workShop/dc/dcTest)
+2016-01-24 17:43:41.178  INFO 15909 --- [main] dc.test.Application                      : No active profile set, falling back to default profiles: default
+2016-01-24 17:43:41.325  INFO 15909 --- [main] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@537011b6: startup date [Sun Jan 24 17:43:41 IST 2016]; root of context hierarchy
+2016-01-24 17:43:44.028  INFO 15909 --- [main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8989 (http)
+2016-01-24 17:43:44.075  INFO 15909 --- [main] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2016-01-24 17:43:44.077  INFO 15909 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.0.30
+2016-01-24 17:43:44.202  INFO 15909 --- [localhost-startStop-1] o.a.c.c.C.[.[localhost].[/dcTest]        : Initializing Spring embedded WebApplicationContext
+2016-01-24 17:43:44.203  INFO 15909 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2883 ms
+2016-01-24 17:43:44.392  INFO 15909 --- [localhost-startStop-1] o.s.b.c.e.ServletRegistrationBean        : Mapping servlet: 'dispatcherServlet' to [/]
+2016-01-24 17:43:44.407  INFO 15909 --- [localhost-startStop-1] o.s.b.c.embedded.FilterRegistrationBean  : Mapping filter: 'characterEncodingFilter' to: [/*]
+2016-01-24 17:43:44.685  INFO 15909 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/learn/test]}" onto public java.lang.String dc.test.LearnController.test()
+2016-01-24 17:43:44.696  INFO 15909 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2016-01-24 17:43:44.696  INFO 15909 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2016-01-24 17:43:44.820  INFO 15909 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@537011b6: startup date [Sun Jan 24 17:43:41 IST 2016]; root of context hierarchy
+2016-01-24 17:43:45.232  INFO 15909 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2016-01-24 17:43:45.319  INFO 15909 --- [main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8989 (http)
+2016-01-24 17:43:45.326  INFO 15909 --- [main] dc.test.Application                      : Started Application in 4.679 seconds (JVM running for 9.017)
